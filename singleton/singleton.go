@@ -1,4 +1,4 @@
-package singletonpattern
+package singleton
 
 import "sync"
 
